@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./newenglandorbrie00morrrich_0001.png"; bbox 0 0 2618 3428; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 250 0 1677 499">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 23 0 1677 542">
+     <span class='ocr_line' id='line_1_1' title="bbox 250 0 1573 421; baseline -0.128 -80.902"><span class='ocrx_word' id='word_1_1' title='bbox 250 246 253 250; x_wconf 87' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 585 206 796 421; x_wconf 49' lang='grc' dir='ltr'>ᾄέἧ</span> <span class='ocrx_word' id='word_1_3' title='bbox 927 0 936 294; x_wconf 57' lang='lat' dir='ltr'><em>f</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1038 22 1573 266; x_wconf 48' lang='lat' dir='ltr'>fflfflffiswjnuuumum„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 604 344 1677 499; baseline -0.114 -23.039"><span class='ocrx_word' id='word_1_5' title='bbox 604 358 803 499; x_wconf 66' lang='lat' dir='ltr'>,gg-g</span> <span class='ocrx_word' id='word_1_6' title='bbox 1666 344 1677 353; x_wconf 7' lang='lat' dir='ltr'>K</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 560 3428">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 560 3428">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 560 3428; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 560 3428; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
